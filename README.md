@@ -6,8 +6,8 @@ Hello, World! JavaScript
 touch hello.js  
 open -e hello.js  
 # once hello.js file is opened, add the following text
-# // Call the console.log function.
-# console.log("Hello World");
+// Call the console.log function.
+console.log("Hello World");
 
 # save and exit file
 
